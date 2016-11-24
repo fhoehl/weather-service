@@ -1,6 +1,6 @@
 # Weather service 🌧⛅️☀️
 
-You can try it here: `http://178.62.22.6/weather/london/20161125/0300`
+You can try it here: http://178.62.22.6/weather/london/20161125/0300
 
 # How to run the service?
 
